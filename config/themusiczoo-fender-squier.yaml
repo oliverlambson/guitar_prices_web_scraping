@@ -1,0 +1,9 @@
+brand: Fender
+check_brand: False
+subbrand: Squier
+check_subbrand: True
+ranges: [Stratocaster, Telecaster, Jazzmaster, Jaguar]
+remove: by Fender
+year: 2018
+store: themusiczoo
+url: https://www.themusiczoo.com/collections/squier/new+solid-body-electric+electric-guitars?page=1

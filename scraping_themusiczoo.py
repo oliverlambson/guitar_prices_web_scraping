@@ -79,6 +79,8 @@ else:
     config_file = 'themusiczoo-prs-se'
     config_file = 'themusiczoo-fender-mim'
     config_file = 'themusiczoo-fender-squier'
+    config_file = 'themusiczoo-suhr-usa'
+    config_file = 'themusiczoo-ernie_ball-music_man'
     print(f'No config file given--using {config_file}')
 
 if 'write_csv' in sys.argv:

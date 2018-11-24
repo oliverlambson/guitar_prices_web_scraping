@@ -1,0 +1,9 @@
+brand: Fender
+subbrand: MIM
+check_subbrand: False
+max_price: 1225
+ranges: [Stratocaster, Telecaster, Jazzmaster, Esquire, Nocaster, Jaguar, Mustang, Duo-Sonic]
+exclude: Japan
+year: 2018
+store: themusiczoo
+url: https://www.themusiczoo.com/collections/fender/electric-guitars+new+solid-body-electric?page=1
