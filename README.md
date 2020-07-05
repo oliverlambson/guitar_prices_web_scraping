@@ -1,5 +1,5 @@
-# Web Scraping of Guitar Prices
+# Guitar prices: web scraping
 
-A project to collect data about guitar prices from online musical instrument stores.
+A project to collect raw data about guitar prices from online musical instrument stores.
 
 Using Beautiful Soup.
