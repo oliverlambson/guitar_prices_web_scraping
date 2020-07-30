@@ -1,6 +1,6 @@
 # Guitar prices: web scraping
 
-A project to collect raw data about guitar prices from online musical instrument stores. 
+**A project to collect raw data about guitar prices from online musical instrument stores.**
 
 The data is used in [another project](https://github.com/oliverlambson/guitar_prices_django_dashboard) which allows it to be visually interacted with via a web-based dashboard.
 
